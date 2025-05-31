@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # About me
-🙇‍♂️ Habilities
+🙇‍♂️ Habilities |
 Python development. 
 
 ![GitHub Gist stars](https://img.shields.io/github/gist/stars/48e9ae8b11211730062d93ee7dd4e078)
