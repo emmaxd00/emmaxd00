@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 # Mis badges
 
 ![GitHub Gist stars](https://img.shields.io/github/gist/stars/48e9ae8b11211730062d93ee7dd4e078)
+![GitHub followers](https://img.shields.io/github/followers/emmaxd00)
 
