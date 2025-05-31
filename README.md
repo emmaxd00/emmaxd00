@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Mis badges
+
+![Gist Stars](https://img.shields.io/github/stars/gist/f825d7c24684e4ad6406cdb2bd12384c?style=for-the-badge)
