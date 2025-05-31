@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 # Mis badges
 
-![Gist Stars](https://img.shields.io/github/stars/gist/f825d7c24684e4ad6406cdb2bd12384c?style=for-the-badge)
+![GitHub Gist stars](https://img.shields.io/github/gist/stars/48e9ae8b11211730062d93ee7dd4e078)
+
