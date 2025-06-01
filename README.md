@@ -29,9 +29,14 @@
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   
-
 </span>
- 
+
+ ## Social Media 
+
+ <a href= "https://www.instagram.com/emmaxl_20/">
+ <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+
+ <a/> 
 
 ![GitHub Gist stars](https://img.shields.io/github/gist/stars/48e9ae8b11211730062d93ee7dd4e078)
 ![GitHub followers](https://img.shields.io/github/followers/emmaxd00)
