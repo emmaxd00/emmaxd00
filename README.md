@@ -1,9 +1,9 @@
 ## Hi there 👋
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>Emmanuel</b>
 </h1>
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
+Heya! I'm Emmanuel and I'm preparing for 
 <a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
 and learning programming through small projects  on the side.
 
@@ -16,10 +16,7 @@ and learning programming through small projects  on the side.
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
 </div>
 </p>
-
-# About me
-🙇‍♂️ Habilities |
-Python development. 
+ 
 
 ![GitHub Gist stars](https://img.shields.io/github/gist/stars/48e9ae8b11211730062d93ee7dd4e078)
 ![GitHub followers](https://img.shields.io/github/followers/emmaxd00)
