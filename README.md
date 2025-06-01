@@ -1,19 +1,22 @@
 ## Hi there 👋
+<h1 align="center">
+  <b>Abhigyan Trips</b>
+</h1>
 
-<!--
-**emmaxd00/emmaxd00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
+<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
+and learning programming through small projects  on the side.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 Python...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+</div>
+</p>
+
 # About me
 🙇‍♂️ Habilities |
 Python development. 
