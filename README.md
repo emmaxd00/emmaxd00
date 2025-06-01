@@ -3,7 +3,7 @@
   <b>Emmanuel</b>
 </h1>
 
-Heya! I'm Emmanuel and I'm preparing
+Hello! I'm Emmanuel and I'm preparing
 <a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination"></a> 
 and learning programming through small projects  on the side.
 
