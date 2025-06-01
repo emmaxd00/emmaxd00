@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a engineer student. 
+👷 I am a computer engineering student. I am expanding my knowledge in both front-end and back-end development.
 
 
 
@@ -42,6 +42,13 @@ I'm a engineer student.
  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 
  <a/> 
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/valentinawerle)
+</div> 
+
 
 ![GitHub Gist stars](https://img.shields.io/github/gist/stars/48e9ae8b11211730062d93ee7dd4e078)
 ![GitHub followers](https://img.shields.io/github/followers/emmaxd00)
